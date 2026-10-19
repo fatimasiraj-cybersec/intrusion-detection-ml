@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+*.zip
+*.log
+
+# Dataset files (auto-downloaded by ids.py)
+KDDTrain+.txt
+KDDTest+.txt
+
+# Generated outputs
+results.csv
+confusion_matrices.png
+known_vs_novel.png 
