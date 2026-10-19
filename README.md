@@ -16,7 +16,7 @@ Python 3 · scikit-learn · pandas · NumPy · Matplotlib
 ## How to Run ? 
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/intrusion-detection-ml.git
+git clone https://github.com/fatimasiraj-cybersec/intrusion-detection-ml.git
 cd intrusion-detection-ml
 
 pip install -r requirements.txt
